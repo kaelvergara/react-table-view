@@ -1,0 +1,16 @@
+{
+  "name": "table-view-exam-tp3",
+  "version": "1.0.0",
+  "description": "Create a User Courses Table View",
+  "keywords": [],
+  "main": "src/index.js",
+  "devDependencies": {
+    "@babel/runtime": "7.13.8",
+    "typescript": "4.1.3"
+  },
+  "dependencies": {
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-scripts": "4.0.0"
+  }
+}
